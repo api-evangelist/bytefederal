@@ -1,0 +1,9 @@
+Contact: mailto:cybersecurity@bytefederal.zendesk.com
+Contact: mailto:support@bytefederal.com
+Contact: https://www.bytefederal.com/contact
+Contact: tel:+17866862983
+Expires: 2027-12-31T23:59:59.000Z
+Acknowledgments: https://www.bytefederal.com/security-bug-bounty
+Policy: https://www.bytefederal.com/security-bug-bounty
+Preferred-Languages: en
+Canonical: https://www.bytefederal.com/.well-known/security.txt

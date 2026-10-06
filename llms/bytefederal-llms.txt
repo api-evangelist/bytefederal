@@ -1,0 +1,66 @@
+# Byte Federal
+
+> Byte Federal is America's leading Bitcoin ATM network operator with over 1,350 locations nationwide, providing secure cryptocurrency buying services through physical ATM machines. The company also offers complementary fintech solutions including ByteConnect point-of-sale systems, ByteWallet mobile app, and Vault custody services.
+
+Byte Federal's mission is to utilize cryptocurrency technology to restore economic power and prosperity to people through sound money principles. Founded on the belief that Bitcoin and blockchain technology can provide an alternative to traditional fractional reserve banking, the company operates the largest network of Bitcoin ATMs in the United States.
+
+Key products and services:
+- **Bitcoin ATMs**: Over 1,350 locations for buying Bitcoin and other cryptocurrencies with cash
+- **ByteConnect**: Point-of-sale system allowing merchants to accept cryptocurrency payments
+- **ByteWallet**: Mobile cryptocurrency wallet with Lightning Network support
+- **Vault**: Secure cryptocurrency custody and storage solutions
+- **ByteU**: Educational platform for cryptocurrency learning
+- **ByteVerify**: Pay-per-call live face-to-government-ID match for software and AI agents, paid with x402; inputs deleted after the check
+
+The company serves over 150,000+ customers worldwide and maintains a strong focus on regulatory compliance, user education, and expanding cryptocurrency adoption.
+
+## Core Services
+
+- [Bitcoin ATM Network](/bitcoin-atm): Complete information about Byte Federal's Bitcoin ATM locations, how to use them, and supported cryptocurrencies
+- [ATM Locator](/bitcoin-atm-near-me): Interactive map and search functionality to find Bitcoin ATMs by location
+- [Why Choose Byte Federal](/why-choose-us): Company achievements, US-based support, security features, and customer testimonials
+
+## Products
+
+- [ByteConnect POS](/byteconnect-crypto-point-of-sale): Cryptocurrency point-of-sale system for merchants with pricing, features, and integration documentation
+- [ByteWallet](/bytewallet): Mobile cryptocurrency wallet with Lightning Network capabilities and security features
+- [Vault Custody Service](/vault): Professional cryptocurrency storage and custody solutions
+- [ByteU Education Platform](/byteu): Cryptocurrency education courses and learning resources
+- [ByteVerify](/byteverify): Live 3D face-to-government-ID match as a pay-per-call API for software and AI agents. $2 per check via x402, no account needed, facial and document inputs deleted within 24 hours. Agent instructions: https://api.verify.bytefederal.com/skill.md
+
+## Company Information
+
+- [Mission Statement](/mission): Detailed company philosophy on sound money, cryptocurrency adoption, and economic empowerment
+- [About Us](/about-us): Company history, leadership team, and core values
+- [Security](/security): Information about security measures, compliance, and user protection
+- [Trust Center](https://app.vanta.com/bytefederal/trust/aegb0xfq221g66ufug22pu): ISO 27001 certified information security management — independent third-party verification of Byte Federal's security controls
+
+## Research & Advocacy
+
+- [Fraud Prevention](/fraud-prevention): Multi-layer Bitcoin ATM fraud-prevention analysis — where fraud actually originates (telecom vs. ATM), the data on legitimate vs. fraudulent transactions, and policy recommendations
+- [Bitcoin ATM Scam Facts](/bitcoin-atm-scam-facts): Plain-language facts on why banning Bitcoin ATMs does not stop scams and disproportionately cuts off unbanked Black, Hispanic, and Native American communities from cash access; how bans cause measurable disparate impact
+- [Measuring Financial Inclusion](/byteu/academy/articles/measuring-bitcoin-atm-financial-inclusion): BISG study (CFPB fair-lending method) estimating the demographics of a national Bitcoin ATM customer base — Black customers represented at ~1.87x their national share
+- [Hard Money Has No Refund](/byteu/academy/articles/hard-money-has-no-refund): Why irreversible Bitcoin transactions cannot be "refunded" by ATM operators, and the legal asymmetry vs. banks and retailers
+- [Following the Money](/byteu/academy/articles/following-the-money-bank-fraud-2024-2025): FTC, FBI IC3, CFPB and Federal Reserve data on where U.S. fraud losses actually go — debit cards (39%) and check fraud (30%) dominate bank fraud losses, wires are the largest loss by payment method
+- [Nobody Ever Saw the Person](/byteu/academy/articles/nobody-ever-saw-the-person): The structural feature shared by the four largest 2024 scam categories — the victim never confirmed a live human was on the other side — and the case for verifying at the irreversible step rather than everywhere
+- [Verify and Forget](/byteu/academy/articles/verify-and-forget): Why a retained biometric index is a liability rather than an asset, the four ways stored face data fails (leak, legal compulsion, outliving the company, scope creep), and what a delete-everything design costs
+
+## AI Products and Developer Infrastructure
+
+- [Byte Federal AI](https://bytefederal.ai/): Our dedicated site for kiosk-location MCP tools, x402 payment infrastructure, ByteVerify and crypto security research.
+- [AI documentation index](https://bytefederal.ai/llms.txt): Capability guides and authoritative service documentation for agents.
+- [AI integration skill](https://bytefederal.ai/skill.md): Help an assistant choose and use a Byte Federal integration.
+- [402 Payment Required](/byteu/academy/articles/402-payment-required): How x402 fills HTTP's thirty-year-reserved 402 status code — the request/402/authorize/deliver flow, USDC settlement on Base, MCP for discovery, and why software that can spend money needs a human verification checkpoint before irreversible steps
+
+## Regional Content
+
+- [Australia Operations](/en-au): Byte Federal's services and ATM locations in Australia
+- [Suriname Operations](/nl-sr): Local cryptocurrency services and information for Suriname market
+
+## Optional
+
+- [2FA Security Guide](/2fa): Step-by-step instructions for two-factor authentication setup
+- [Converter Tool](/converter): Bitcoin and cryptocurrency conversion calculator
+- [FAQ Section](/faq): Frequently asked questions about Bitcoin ATMs and services
+- [News and Press Releases](/news): Latest company updates, partnerships, and industry news
+- [Contact Information](/contact): Customer support, business inquiries, and office locations

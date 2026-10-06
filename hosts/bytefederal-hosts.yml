@@ -1,0 +1,164 @@
+generated: '2026-10-06'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 13
+  own: 10
+  other_domain: 2
+  platform: 1
+  roles:
+  - api
+  - other
+  - portal
+  - source
+  - support
+  - website
+hosts:
+- host: api.bytefederal.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: bytefederal.com
+  role: api
+  relation: own
+- host: api.verify.bytefederal.com
+  found_by:
+  - apis[]
+  types: []
+  serves:
+  - api
+  registrable_domain: bytefederal.com
+  role: api
+  relation: own
+- host: app.vanta.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: vanta.com
+  role: other
+  relation: other-domain
+- host: bytefederal.ai
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bytefederal.ai
+  role: other
+  relation: other-domain
+- host: fast.bytefederal.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: bytefederal.com
+  role: other
+  relation: own
+- host: github.com
+  found_by:
+  - pointer
+  types:
+  - GitHubOrganization
+  serves: []
+  registrable_domain: github.com
+  role: source
+  relation: platform
+- host: marketing.bytefederal.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: bytefederal.com
+  role: other
+  relation: own
+- host: mcp-docs.bytefederal.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: bytefederal.com
+  role: other
+  relation: own
+- host: portal.bytefederal.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - docs-index
+  - well-known
+  types:
+  - DeveloperPortal
+  serves:
+  - docs
+  registrable_domain: bytefederal.com
+  role: portal
+  relation: own
+- host: register.bytefederal.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: bytefederal.com
+  role: other
+  relation: own
+- host: support.bytefederal.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: bytefederal.com
+  role: support
+  relation: own
+- host: wallet.bytefederal.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: bytefederal.com
+  role: other
+  relation: own
+- host: www.bytefederal.com
+  found_by:
+  - pointer
+  - apis[]
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Security
+  - Website
+  - Documentation
+  - APIReference
+  - Support
+  - Blog
+  - Pricing
+  - TermsOfService
+  - PrivacyPolicy
+  serves:
+  - docs
+  - cdn
+  vendor: cloudflare
+  registrable_domain: bytefederal.com
+  role: website
+  relation: own

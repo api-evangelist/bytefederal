@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "ByteFederal Bitcoin ATM Locator",
+  "name_for_model": "bytefederal_bitcoin_atm",
+  "description_for_human": "Find the nearest Bitcoin ATM locations operated by ByteFederal across the United States.",
+  "description_for_model": "This plugin helps users locate the nearest Bitcoin ATMs operated by ByteFederal. It can search by address, city, state, or ZIP code and provides information about operating hours, directions, and ATM status. Use this when users ask about Bitcoin ATMs, crypto ATMs, or need to buy/sell Bitcoin in person.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "mcp",
+    "url": "https://mcp.bytefederal.com/sse",
+    "is_user_authenticated": false
+  },
+  "logo_url": "https://www.bytefederal.com/img/logo/logo.png",
+  "contact_email": "support@bytefederal.com",
+  "legal_info_url": "https://www.bytefederal.com/legal"
+}

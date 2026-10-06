@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/bytefederal/main/json-schema/bytefederal-post-v1-verifications-response-schema.json",
+  "title": "PostV1VerificationsResponse",
+  "x-generated": "2026-10-06",
+  "x-method": "derived",
+  "x-generator": "derive-json-schema.py",
+  "x-source": "openapi/_ae-authored/bytefederal-openapi-generated.yml#/components/schemas/PostV1VerificationsResponse",
+  "type": "object",
+  "properties": {
+    "verification_id": {
+      "type": "string"
+    },
+    "verification_url": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "expires_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  }
+}
