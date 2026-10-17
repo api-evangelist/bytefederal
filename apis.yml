@@ -93,21 +93,20 @@ common:
   url: https://www.bytefederal.com/legal/terms
 
 apis:
-- aid: bytefederal:bytefederal-api
-  name: Bytefederal API
-  description: 'Bytefederal API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-10-06);
-    not the provider''s own document.'
+- aid: bytefederal:bytefederal-verifications-api
+  name: Bytefederal Verifications API
+  description: The Verifications API from Bytefederal — 1 operation(s) for verifications.
   humanURL: https://www.bytefederal.com/byteverify
   baseURL: https://api.verify.bytefederal.com
+  tags:
+  - Verifications
   properties:
   - type: OpenAPI
-    url: openapi/_ae-authored/bytefederal-openapi-generated.yml
-    x-provenance: generated
+    url: openapi/bytefederal-verifications-api-openapi.yml
   - type: JSONSchema
     url: json-schema/bytefederal-post-v1-verifications-response-schema.json
   - type: JSONSchema
     url: json-schema/bytefederal-post-v1-verifications-request-schema.json
-
 x-coverage:
   state: unreadable
   reason: no-machine-readable-spec
