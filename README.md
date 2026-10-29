@@ -64,5 +64,113 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bytefederal is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/bytefederal
+Bytefederal is a placeholder company identified during the API Evangelist harvest process. It currently lacks publicly available documentation, website, or API specifications. The entry exists to enable future profiling should the company establish an online presence, publish APIs, or provide developer resources. This stub will be updated when verifiable information becomes available.
+
+**Areas:** Finance · Payments · Banking · Technology
+
+## Bytefederal on APIs.io
+
+Everything profiled for Bytefederal is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bytefederal/](https://apis.io/providers/bytefederal/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Bytefederal Verifications API](https://apis.io/apis/bytefederal/bytefederal-verifications-api/) — The Verifications API from Bytefederal — 1 operation(s) for verifications.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PostV1VerificationsRequest](https://apis.io/schemas/bytefederal/bytefederal-post-v1-verifications-request/)
+- [PostV1VerificationsResponse](https://apis.io/schemas/bytefederal/bytefederal-post-v1-verifications-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Bytefederal Context](https://apis.io/jsonld/bytefederal/bytefederal-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Bytefederal API Rules](https://apis.io/rules/bytefederal/bytefederal-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bytefederal Domain Security](https://apis.io/security/bytefederal/bytefederal-domain-security/)
+- [Bytefederal Vulnerability Disclosure](https://apis.io/security/bytefederal/bytefederal-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.bytefederal.com)
+- [Documentation](https://www.bytefederal.com/apis)
+- [Getting started](https://www.bytefederal.com/byteconnect-crypto-point-of-sale/api/getting-started/account)
+- [API reference](https://www.bytefederal.com/apis)
+- [Pricing](https://www.bytefederal.com)
+- [Support](https://www.bytefederal.com/contact)
+- [Blog](https://www.bytefederal.com/news)
+- [Security](https://www.bytefederal.com/security-bug-bounty)
+- [Terms of service](https://www.bytefederal.com/legal/terms)
+- [Privacy policy](https://www.bytefederal.com/legal/terms)
+- [GitHub](https://github.com/bytefederal)
+
+## API Evangelist rating
+
+**Kin Score 35.0** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 20.9 |
+| Contract governance | 22.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 52.4 |
+| Access clarity | 44.7 |
+
+**Agent readiness 18.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.7** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bytefederal/](https://apis.io/providers/bytefederal/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bytefederal: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bytefederal/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
